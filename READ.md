@@ -1,0 +1,2 @@
+# wechat_public_account
+以前开发微信公众号做的一个小项目，参考了csdn上面一个大神的教程
